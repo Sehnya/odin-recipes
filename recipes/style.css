@@ -1,0 +1,27 @@
+html {
+    background-image: linear-gradient(to bottom, #ff0000 44%, #ccffcc 84%)
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: #fc0000ec;
+    border-style: dotted;
+    border-color: #85e057;
+    border-width: 4px;
+}
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: #496e3f;
+    background-blend-mode: luminosity;
+}
+
+h1 {
+    font-size: 75px;
+    
+}
+
+img {
+    padding: 50px;
+}
